@@ -38,4 +38,4 @@ The detailed descriptions about the arguments are as following:
 | freq | Freq for time features encoding (defaults to `h`). This can be set to `s`,`t`,`h`,`d`,`b`,`w`,`m` (s:secondly, t:minutely, h:hourly, d:daily, b:business days, w:weekly, m:monthly |
 | features | The forecasting task (defaults to `M`). This can be set to `M`,`S`,`MS` (M : multivariate predict multivariate, S : univariate predict univariate, MS : multivariate predict univariate) |
 
-On running the main code a `results` folder will be created where the output is stored.
+On running the main code a `results` folder will be created where the prediction output is stored.
