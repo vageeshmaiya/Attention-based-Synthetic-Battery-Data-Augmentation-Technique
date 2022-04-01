@@ -46,3 +46,5 @@ We appreciate the following github repos a lot for their valuable code base or d
 https://github.com/zhouhaoyi/Informer2020
 
 Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830.
+
+https://web.calce.umd.edu/batteries/data.htm
