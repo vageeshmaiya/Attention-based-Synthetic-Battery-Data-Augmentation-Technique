@@ -14,7 +14,7 @@ This project has been executed via google colab.
 
 4. Make the necessary changes mentioned in the code to get the result.
  
-5. The datsasets used can be found in the `informer_model/ETDataset-main/ETT-small` folder. Any new dataset to be used should be uploaded in the mentioned folder.
+5. The datsasets used can be found in the `informer_model/Dataset-main/datasets` folder. Any new dataset to be used should be uploaded in the mentioned folder.
  
 6. All changes pertaining to prediction length, dataset etc can be done in `main_informer.py` script. 
 
