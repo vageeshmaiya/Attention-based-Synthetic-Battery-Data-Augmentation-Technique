@@ -39,3 +39,10 @@ The detailed descriptions about the arguments are as following:
 | features | The forecasting task (defaults to `M`). This can be set to `M`,`S`,`MS` (M : multivariate predict multivariate, S : univariate predict univariate, MS : multivariate predict univariate) |
 
 On running the main code a `results` folder will be created where the prediction output is stored.
+
+## Acknowledgement
+We appreciate the following github repos a lot for their valuable code base or datasets:
+
+https://github.com/zhouhaoyi/Informer2020
+
+Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830.
