@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser(description='[Informer] Long Sequences Forecast
 parser.add_argument('--model', type=str, required=True, default='informer',help='model of experiment, options: [informer, informerstack, informerlight(TBD)]')
 
 parser.add_argument('--data', type=str, required=True, default='ETTh1', help='data')
-parser.add_argument('--root_path', type=str, default='/content/drive/MyDrive/Informer_2021/Inf.zip (Unzipped Files)/Inf/ETDataset-main/ETT-small', help='root path of the data file')
+parser.add_argument('--root_path', type=str, default='/content/drive/MyDrive/Informer_model/Dataset-main/datasets', help='root path of the data file')
 parser.add_argument('--data_path', type=str, default='ETTh1.csv', help='data file')    
 parser.add_argument('--features', type=str, default='M', help='forecasting task, options:[M, S, MS]; M:multivariate predict multivariate, S:univariate predict univariate, MS:multivariate predict univariate')
 parser.add_argument('--target', type=str, default='OT', help='target feature in S or MS task')
