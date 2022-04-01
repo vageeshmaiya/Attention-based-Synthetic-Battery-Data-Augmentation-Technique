@@ -10,7 +10,7 @@ This project has been executed via google colab.
 
 2. Create a new folder in google drive and upload the extracted contents into it.
 
-3. The code to be executed in google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zAZ_TRzqYrBMC7ytMzo9DJClzE1I8rs1#scrollTo=JgRskn6_EIw-)
+3. The code to be executed in google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zAZ_TRzqYrBMC7ytMzo9DJClzE1I8rs1#scrollTo=4mlDW5yJEHg7)
 
 4. Make the necessary changes mentioned in the code to get the result.
  
