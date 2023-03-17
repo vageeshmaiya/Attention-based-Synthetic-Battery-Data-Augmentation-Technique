@@ -10,7 +10,7 @@ This project has been executed via google colab.
 
 2. Create a new folder in google drive and upload the extracted contents into it.
 
-3. The code to be executed in google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zAZ_TRzqYrBMC7ytMzo9DJClzE1I8rs1#scrollTo=4mlDW5yJEHg7)
+3. The code to be executed in google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vageeshmaiya/Attention-based-Synthetic-Battery-Data-Augmentation-Technique/blob/main/Attention_based_Synthetic_Battery_Data_Augmentation_Technique.ipynb)
 
 4. Make the necessary changes mentioned in the code to get the result.
  
